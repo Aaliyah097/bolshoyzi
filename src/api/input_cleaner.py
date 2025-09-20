@@ -2,6 +2,7 @@ from typing import Callable
 from executor.clean import clean_email, clean_username
 from dataclasses import dataclass
 import logging
+from db.scripts.script_input import ScriptInput
 
 
 @dataclass
@@ -11,8 +12,8 @@ class Cleaner:
 
 
 INPUT_MAP = {
-    'username': Cleaner(clean_username, 'Имя пользователя'),
-    'email': Cleaner(clean_email, 'Адрес электронной почты'),
+    ScriptInput.USERNAME: Cleaner(clean_username, 'Имя пользователя'),
+    ScriptInput.EMAIL: Cleaner(clean_email, 'Адрес электронной почты'),
 }
 
 

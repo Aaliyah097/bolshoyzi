@@ -67,6 +67,8 @@ docker stack deploy -c swarm-docker-compose.yml --with-registry-auth bolshoyzi
 
 # Полезные команды dockerswarm
 ```bash
+# Лог конкретного контейнера
+docker logs $(docker ps -qf "name=bolshoyzi_bot.1")
 # Запустить докер сварм
 docker swarm init
 # Посмотреть стеки

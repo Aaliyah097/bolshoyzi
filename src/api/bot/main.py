@@ -15,6 +15,7 @@ from api.bot.menu import (
 )
 from distributor.user_req import UserReq
 from api.input_cleaner import validate_input, make_input_label
+from db.preload import preload
 
 logging.basicConfig(level=logging.INFO)
 
@@ -143,6 +144,7 @@ async def retry_send_task(callback: types.CallbackQuery, state: FSMContext):
 
 
 async def main():
+    await preload()
     await tasks_rabbit.connect()
     try:
         await dp.start_polling(bot)
