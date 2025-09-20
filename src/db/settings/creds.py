@@ -51,10 +51,11 @@ class RabbitMQCredentials(BaseSettings):
     RABBITMQ_DEFAULT_USER: str
     RABBITMQ_DEFAULT_PASS: str
     RABBITMQ_HOST: str
+    RABBITMQ_PORT: int = 5672
 
     @property
     def rabbitmq_conn_string(self) -> str:
-        return f"amqp://{self.RABBITMQ_DEFAULT_USER}:{self.RABBITMQ_DEFAULT_PASS}@{self.RABBITMQ_HOST}/"
+        return f"amqp://{self.RABBITMQ_DEFAULT_USER}:{self.RABBITMQ_DEFAULT_PASS}@{self.RABBITMQ_HOST}:{self.RABBITMQ_PORT}/"
 
 
 class Credentials(
