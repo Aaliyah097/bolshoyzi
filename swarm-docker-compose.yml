@@ -1,0 +1,69 @@
+services:
+  distributor:
+    image: bolshoyzi:latest
+    command: sh -c "alembic upgrade head && python3 src/distributor/consumer_.py"
+    env_file: prod.env
+    depends_on:
+      - postgres
+      - rabbitmq
+      - mongo
+      - minio
+  reporter:
+    image: bolshoyzi:latest
+    command: sh -c "alembic upgrade head && python3 src/reporter/consumer_.py"
+    env_file: prod.env
+    depends_on:
+      - postgres
+      - rabbitmq
+      - mongo
+      - minio
+  bot:
+    image: bolshoyzi:latest
+    command: sh -c "alembic upgrade head && python3 src/api/bot/main.py"
+    env_file: prod.env
+    depends_on:
+      - postgres
+      - rabbitmq
+      - mongo
+      - minio
+  postgres:
+    image: postgres:15-alpine
+    ports:
+      - "5432:5432"
+    env_file:
+      - prod.env
+    volumes:
+        - pgdata:/var/lib/postgresql/data
+  rabbitmq:
+    image: rabbitmq:3-management
+    ports:
+      - "5672:5672"   # AMQP
+      - "15672:15672" # Web UI
+    env_file:
+      - prod.env
+    volumes:
+      - rabbitmq_data:/var/lib/rabbitmq
+  minio:
+    image: minio/minio
+    ports:
+      - "9000:9000" # API
+      - "9001:9001" # Console
+    env_file:
+      - prod.env
+    command: server /data --console-address ":9001"
+    volumes:
+      - minio_data:/data
+  mongo:
+    image: mongo:6
+    ports:
+      - "27017:27017"
+    env_file:
+      - prod.env
+    volumes:
+      - mongo_data:/data/db
+
+volumes:
+  pgdata:
+  rabbitmq_data:
+  minio_data:
+  mongo_data:

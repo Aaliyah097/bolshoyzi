@@ -1,0 +1,32 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+requests = "*"
+uvicorn = "*"
+yt-dlp = "*"
+sherlock-project = "*"
+socialscan = "*"
+alembic = "*"
+asyncpg = "*"
+psycopg2-binary = "*"
+sqlalchemy = "*"
+ulid-py = "*"
+aio-pika = "*"
+fastapi = {extras = ["standard"], version = "*"}
+aiogram = "*"
+aiobotocore = "*"
+botocore = "*"
+pydantic-settings = "*"
+aioboto3 = "*"
+pytest = "*"
+pytest-asyncio = "*"
+motor = "*"
+aiohttp = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.12"

@@ -1,0 +1,1428 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://marketplace.visualstudio.com/items?itemName=pomdtr.excalidraw-editor",
+  "elements": [
+    {
+      "id": "d32VlDMXmPDSXxCCLvu3t",
+      "type": "text",
+      "x": 804,
+      "y": 320,
+      "width": 46.90800476074219,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a1",
+      "roundness": null,
+      "seed": 1721454457,
+      "version": 10,
+      "versionNonce": 1013113081,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756146031755,
+      "link": null,
+      "locked": false,
+      "text": "Me",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Me",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "cozjvj9AByeJC_P4UdpCW",
+      "type": "text",
+      "x": 1239,
+      "y": 324,
+      "width": 98.46002197265625,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#1971c2",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a2",
+      "roundness": null,
+      "seed": 1814660729,
+      "version": 57,
+      "versionNonce": 129802167,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756146029395,
+      "link": null,
+      "locked": false,
+      "text": "Tools",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Tools",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "z99_Quu4t933UR8Kf8GPv",
+      "type": "text",
+      "x": 1658.453971862793,
+      "y": 321.5,
+      "width": 142.9200439453125,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a3",
+      "roundness": null,
+      "seed": 968798871,
+      "version": 45,
+      "versionNonce": 1473754809,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756146035318,
+      "link": null,
+      "locked": false,
+      "text": "Security",
+      "fontSize": 36,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Security",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "f5WF5ine6KtlIBlUeVK1g",
+      "type": "text",
+      "x": 1160,
+      "y": 423,
+      "width": 341.5196838378906,
+      "height": 175,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a4",
+      "roundness": null,
+      "seed": 339028599,
+      "version": 214,
+      "versionNonce": 288866809,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756146607347,
+      "link": null,
+      "locked": false,
+      "text": "yt-dlp / YouTUbe-DL (66)\n- скачать видео с ютуба\n- скачать текст видео\n* сделать саммари по тексту видео\nчерез нейронку\n\n",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "yt-dlp / YouTUbe-DL (66)\n- скачать видео с ютуба\n- скачать текст видео\n* сделать саммари по тексту видео\nчерез нейронку\n\n",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "YRc2MbG2L2aKI9gQaEFvG",
+      "type": "text",
+      "x": 1167,
+      "y": 609,
+      "width": 379.91961669921875,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a5",
+      "roundness": null,
+      "seed": 1973537977,
+      "version": 57,
+      "versionNonce": 1885996631,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756146327784,
+      "link": null,
+      "locked": false,
+      "text": "ffmpeg\n- скачать аудиодорожку видео с ютуба",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "ffmpeg\n- скачать аудиодорожку видео с ютуба",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "umz6PWa820Wa1R-Db-7UW",
+      "type": "text",
+      "x": 675.4285714285716,
+      "y": 412,
+      "width": 440.63958740234375,
+      "height": 250,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a6",
+      "roundness": null,
+      "seed": 1232280535,
+      "version": 539,
+      "versionNonce": 835500436,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756204668474,
+      "link": null,
+      "locked": false,
+      "text": "osintgram / instaloader / toutatis (83)\n* через комментарии ко всем постам\nможно посчитать какие люди чаще\nпроявляют активность = круг общения\n* по юзернеймам пользователей \nиз круга общения можно получить их имена\n* по геометкам фоток можно составить карту\nгде человек был, то же самое можно \nсделать если посмотреть фотки его\nкруга общения, где он отмечен",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "osintgram / instaloader / toutatis (83)\n* через комментарии ко всем постам\nможно посчитать какие люди чаще\nпроявляют активность = круг общения\n* по юзернеймам пользователей \nиз круга общения можно получить их имена\n* по геометкам фоток можно составить карту\nгде человек был, то же самое можно \nсделать если посмотреть фотки его\nкруга общения, где он отмечен",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "lts28yjjE1x6of42ixRTS",
+      "type": "text",
+      "x": 672,
+      "y": 721,
+      "width": 425.2196350097656,
+      "height": 100,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "a7",
+      "roundness": null,
+      "seed": 414345527,
+      "version": 298,
+      "versionNonce": 1682430169,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756147160752,
+      "link": null,
+      "locked": false,
+      "text": "sherlock / holehe / socialscan \n/ whatsmyname / blackbird / Maigret (86)\n- получить список сайтов, где пользователь\nиспользовал юзернейм или почту",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "sherlock / holehe / socialscan \n/ whatsmyname / blackbird / Maigret (86)\n- получить список сайтов, где пользователь\nиспользовал юзернейм или почту",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Qcq6C79pd-k6mXMZM3oI0",
+      "type": "freedraw",
+      "x": 628,
+      "y": 521,
+      "width": 41,
+      "height": 266,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aA",
+      "roundness": null,
+      "seed": 600730809,
+      "version": 24,
+      "versionNonce": 407060281,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756146941430,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -3,
+          7
+        ],
+        [
+          -8,
+          18
+        ],
+        [
+          -14,
+          33
+        ],
+        [
+          -24,
+          56
+        ],
+        [
+          -33,
+          82
+        ],
+        [
+          -36,
+          99
+        ],
+        [
+          -39,
+          116
+        ],
+        [
+          -40,
+          128
+        ],
+        [
+          -40,
+          142
+        ],
+        [
+          -39,
+          157
+        ],
+        [
+          -36,
+          183
+        ],
+        [
+          -29,
+          211
+        ],
+        [
+          -24,
+          225
+        ],
+        [
+          -16,
+          241
+        ],
+        [
+          -11,
+          251
+        ],
+        [
+          -9,
+          257
+        ],
+        [
+          -4,
+          263
+        ],
+        [
+          0,
+          265
+        ],
+        [
+          0,
+          266
+        ],
+        [
+          1,
+          266
+        ],
+        [
+          1,
+          265
+        ],
+        [
+          1,
+          265
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "qHLk2VuaSknuRGwdaQMd-",
+      "type": "text",
+      "x": 480,
+      "y": 652,
+      "width": 86.83992004394531,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aB",
+      "roundness": null,
+      "seed": 1265662455,
+      "version": 18,
+      "versionNonce": 1159277529,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756146949725,
+      "link": null,
+      "locked": false,
+      "text": "username",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "username",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "I3qixTSdKJW6iRWkJ8O7g",
+      "type": "text",
+      "x": 683,
+      "y": 876,
+      "width": 384.2196350097656,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aC",
+      "roundness": null,
+      "seed": 654849689,
+      "version": 61,
+      "versionNonce": 148047671,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756147324324,
+      "link": null,
+      "locked": false,
+      "text": "email2phone (88)\n- по почте получить частичный телефон",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "email2phone (88)\n- по почте получить частичный телефон",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "tAjaMTGxXFeHjg4hdBwR8",
+      "type": "freedraw",
+      "x": 621,
+      "y": 796,
+      "width": 41,
+      "height": 117,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aD",
+      "roundness": null,
+      "seed": 804949335,
+      "version": 30,
+      "versionNonce": 597974583,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756147203459,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          -2,
+          2
+        ],
+        [
+          -4,
+          9
+        ],
+        [
+          -5,
+          12
+        ],
+        [
+          -6,
+          16
+        ],
+        [
+          -9,
+          24
+        ],
+        [
+          -9,
+          26
+        ],
+        [
+          -9,
+          30
+        ],
+        [
+          -10,
+          33
+        ],
+        [
+          -10,
+          36
+        ],
+        [
+          -10,
+          38
+        ],
+        [
+          -9,
+          44
+        ],
+        [
+          -9,
+          51
+        ],
+        [
+          -8,
+          57
+        ],
+        [
+          -7,
+          64
+        ],
+        [
+          -3,
+          72
+        ],
+        [
+          3,
+          80
+        ],
+        [
+          7,
+          87
+        ],
+        [
+          10,
+          92
+        ],
+        [
+          14,
+          97
+        ],
+        [
+          16,
+          99
+        ],
+        [
+          18,
+          101
+        ],
+        [
+          22,
+          103
+        ],
+        [
+          24,
+          105
+        ],
+        [
+          26,
+          108
+        ],
+        [
+          27,
+          111
+        ],
+        [
+          30,
+          116
+        ],
+        [
+          31,
+          117
+        ],
+        [
+          31,
+          117
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "H0T0AMbtRNc1dSRdC0e-_",
+      "type": "text",
+      "x": 534,
+      "y": 850,
+      "width": 53.679931640625,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aE",
+      "roundness": null,
+      "seed": 483526041,
+      "version": 7,
+      "versionNonce": 1984526135,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756147207776,
+      "link": null,
+      "locked": false,
+      "text": "почта",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "почта",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "0l_oqMPmlAmat6vHmlxvc",
+      "type": "text",
+      "x": 674,
+      "y": 982,
+      "width": 435.41961669921875,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aF",
+      "roundness": null,
+      "seed": 1382045047,
+      "version": 71,
+      "versionNonce": 1551145751,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756147327722,
+      "link": null,
+      "locked": false,
+      "text": "GHunt (89)\n- получить инфу из гугл учетки пользователя",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "GHunt (89)\n- получить инфу из гугл учетки пользователя",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "Ihr-FVBkNeiN0qg6MBzJq",
+      "type": "freedraw",
+      "x": 466,
+      "y": 693,
+      "width": 189,
+      "height": 329,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aG",
+      "roundness": null,
+      "seed": 709437943,
+      "version": 43,
+      "versionNonce": 1969506137,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756147292014,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          1,
+          6
+        ],
+        [
+          -2,
+          15
+        ],
+        [
+          -3,
+          24
+        ],
+        [
+          -4,
+          30
+        ],
+        [
+          -5,
+          37
+        ],
+        [
+          -7,
+          44
+        ],
+        [
+          -7,
+          50
+        ],
+        [
+          -8,
+          60
+        ],
+        [
+          -10,
+          67
+        ],
+        [
+          -10,
+          80
+        ],
+        [
+          -10,
+          94
+        ],
+        [
+          -7,
+          110
+        ],
+        [
+          0,
+          128
+        ],
+        [
+          10,
+          147
+        ],
+        [
+          15,
+          163
+        ],
+        [
+          24,
+          180
+        ],
+        [
+          31,
+          195
+        ],
+        [
+          38,
+          208
+        ],
+        [
+          46,
+          222
+        ],
+        [
+          56,
+          236
+        ],
+        [
+          68,
+          251
+        ],
+        [
+          80,
+          270
+        ],
+        [
+          90,
+          279
+        ],
+        [
+          100,
+          289
+        ],
+        [
+          114,
+          302
+        ],
+        [
+          119,
+          308
+        ],
+        [
+          128,
+          315
+        ],
+        [
+          137,
+          322
+        ],
+        [
+          145,
+          328
+        ],
+        [
+          149,
+          329
+        ],
+        [
+          153,
+          329
+        ],
+        [
+          156,
+          329
+        ],
+        [
+          160,
+          329
+        ],
+        [
+          165,
+          328
+        ],
+        [
+          168,
+          327
+        ],
+        [
+          171,
+          327
+        ],
+        [
+          172,
+          327
+        ],
+        [
+          173,
+          327
+        ],
+        [
+          174,
+          327
+        ],
+        [
+          179,
+          328
+        ],
+        [
+          179,
+          328
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": null
+    },
+    {
+      "id": "yJdcCR48c5TduNpooS8qX",
+      "type": "text",
+      "x": 418,
+      "y": 895,
+      "width": 86.83992004394531,
+      "height": 25,
+      "angle": 0,
+      "strokeColor": "#e03131",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aH",
+      "roundness": null,
+      "seed": 1755269079,
+      "version": 26,
+      "versionNonce": 1879777017,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756147299213,
+      "link": null,
+      "locked": false,
+      "text": "username",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "username",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "t9akOhRyMVqQDAbM8lO5h",
+      "type": "text",
+      "x": 1679.1898012918139,
+      "y": 408.29365079365095,
+      "width": 202.3997802734375,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aI",
+      "roundness": null,
+      "seed": 1097581332,
+      "version": 95,
+      "versionNonce": 1077375788,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756221247110,
+      "link": null,
+      "locked": false,
+      "text": "amass/sublist3r (94)\n- поиск субдоменов",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "amass/sublist3r (94)\n- поиск субдоменов",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "jS_81_lD98sZFLwk38QHX",
+      "type": "text",
+      "x": 1672.0469441489565,
+      "y": 509.7222222222224,
+      "width": 334.2196960449219,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aJ",
+      "roundness": null,
+      "seed": 1265357588,
+      "version": 47,
+      "versionNonce": 1302457132,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756221262822,
+      "link": null,
+      "locked": false,
+      "text": "photon (95)\n- поиск страниц сайта (юрл путей)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "photon (95)\n- поиск страниц сайта (юрл путей)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "W-v9j-ZjzLVdlIqSWyErc",
+      "type": "text",
+      "x": 1672.0469441489565,
+      "y": 602.5793650793653,
+      "width": 542.179443359375,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aK",
+      "roundness": null,
+      "seed": 1369692948,
+      "version": 85,
+      "versionNonce": 1649107500,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756221312028,
+      "link": null,
+      "locked": false,
+      "text": "TheHarvester (95)\n- поиск почтовых адресов, ассоциирующихся с доменом",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "TheHarvester (95)\n- поиск почтовых адресов, ассоциирующихся с доменом",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "IXdOARsYHLZjaZW-BRNcA",
+      "type": "text",
+      "x": 1670.6183727203852,
+      "y": 698.293650793651,
+      "width": 382.65966796875,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aL",
+      "roundness": null,
+      "seed": 593610540,
+      "version": 78,
+      "versionNonce": 1693015572,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756221530063,
+      "link": null,
+      "locked": false,
+      "text": "Metadata-MediaInfo (95)\n- получает метаданные из медиафайлов",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Metadata-MediaInfo (95)\n- получает метаданные из медиафайлов",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "XPXtAlOcXgcafNON0FAM8",
+      "type": "text",
+      "x": 1659.1898012918139,
+      "y": 794.0079365079367,
+      "width": 358.4196472167969,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aM",
+      "roundness": null,
+      "seed": 1644404780,
+      "version": 89,
+      "versionNonce": 290962580,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756221534141,
+      "link": null,
+      "locked": false,
+      "text": "Metadata-Exiftool (96)\n- получение метаданных из картинок",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Metadata-Exiftool (96)\n- получение метаданных из картинок",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "T1p0OfUtF8C3FWy7aeoPM",
+      "type": "text",
+      "x": 1166.3326584346707,
+      "y": 702.5793650793653,
+      "width": 304.8197021484375,
+      "height": 50,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aN",
+      "roundness": null,
+      "seed": 1484115116,
+      "version": 86,
+      "versionNonce": 1878282132,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756221518850,
+      "link": null,
+      "locked": false,
+      "text": "Metadata-mat2 (96)\n- удалить метаданные из файла",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Metadata-mat2 (96)\n- удалить метаданные из файла",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "YMGel-uROXTX1pslp4Te9",
+      "type": "text",
+      "x": 1159.1898012918136,
+      "y": 801.1507936507938,
+      "width": 413.4595947265625,
+      "height": 75,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aO",
+      "roundness": null,
+      "seed": 261662612,
+      "version": 156,
+      "versionNonce": 1376726164,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1756221647608,
+      "link": null,
+      "locked": false,
+      "text": "Metadata-xueldoc (97)\n- получить метаданные из гугл-документов\n(в т.ч. гугл-ид пользователя)",
+      "fontSize": 20,
+      "fontFamily": 5,
+      "textAlign": "left",
+      "verticalAlign": "top",
+      "containerId": null,
+      "originalText": "Metadata-xueldoc (97)\n- получить метаданные из гугл-документов\n(в т.ч. гугл-ид пользователя)",
+      "autoResize": true,
+      "lineHeight": 1.25
+    },
+    {
+      "id": "ZMVARpqGCOjku4em-cMK2",
+      "type": "freedraw",
+      "x": 648.4199600219727,
+      "y": 724,
+      "width": 109,
+      "height": 19,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 50,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aS",
+      "roundness": null,
+      "seed": 838466044,
+      "version": 19,
+      "versionNonce": 890378052,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756450575421,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          3,
+          -1
+        ],
+        [
+          11,
+          -1
+        ],
+        [
+          17,
+          -1
+        ],
+        [
+          25,
+          -1
+        ],
+        [
+          36,
+          -1
+        ],
+        [
+          47,
+          -1
+        ],
+        [
+          63,
+          2
+        ],
+        [
+          78,
+          6
+        ],
+        [
+          92,
+          12
+        ],
+        [
+          102,
+          15
+        ],
+        [
+          108,
+          17
+        ],
+        [
+          109,
+          17
+        ],
+        [
+          109,
+          18
+        ],
+        [
+          108,
+          18
+        ],
+        [
+          104,
+          18
+        ],
+        [
+          101,
+          18
+        ],
+        [
+          101,
+          18
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        101,
+        18
+      ]
+    },
+    {
+      "id": "AWyBLYOpH0WIuB6csDTtU",
+      "type": "freedraw",
+      "x": 660.4199600219727,
+      "y": 746,
+      "width": 107,
+      "height": 45,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 50,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aT",
+      "roundness": null,
+      "seed": 1286713212,
+      "version": 13,
+      "versionNonce": 2144572228,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756450576006,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          2,
+          0
+        ],
+        [
+          5,
+          0
+        ],
+        [
+          10,
+          -2
+        ],
+        [
+          26,
+          -11
+        ],
+        [
+          48,
+          -21
+        ],
+        [
+          70,
+          -29
+        ],
+        [
+          86,
+          -36
+        ],
+        [
+          99,
+          -42
+        ],
+        [
+          105,
+          -44
+        ],
+        [
+          107,
+          -45
+        ],
+        [
+          107,
+          -45
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        107,
+        -45
+      ]
+    },
+    {
+      "id": "CF-EUupLAVGsxGzvJHaks",
+      "type": "freedraw",
+      "x": 691.4199600219727,
+      "y": 746,
+      "width": 0.0001,
+      "height": 0.0001,
+      "angle": 0,
+      "strokeColor": "#2f9e44",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 1,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 50,
+      "groupIds": [],
+      "frameId": null,
+      "index": "aU",
+      "roundness": null,
+      "seed": 1763561796,
+      "version": 3,
+      "versionNonce": 1380570492,
+      "isDeleted": false,
+      "boundElements": null,
+      "updated": 1756451166595,
+      "link": null,
+      "locked": false,
+      "points": [
+        [
+          0,
+          0
+        ],
+        [
+          0.0001,
+          0.0001
+        ]
+      ],
+      "pressures": [],
+      "simulatePressure": true,
+      "lastCommittedPoint": [
+        0.0001,
+        0.0001
+      ]
+    }
+  ],
+  "appState": {
+    "gridSize": 20,
+    "gridStep": 5,
+    "gridModeEnabled": false,
+    "viewBackgroundColor": "#ffffff"
+  },
+  "files": {}
+}
