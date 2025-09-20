@@ -54,7 +54,7 @@ class RabbitMQCredentials(BaseSettings):
 
     @property
     def rabbitmq_conn_string(self) -> str:
-        return f"amqp://{self.RABBITMQ_USER}:{self.RABBITMQ_PASSWORD}@{self.RABBITMQ_HOST}/"
+        return f"amqp://{self.RABBITMQ_DEFAULT_USER}:{self.RABBITMQ_DEFAULT_PASS}@{self.RABBITMQ_HOST}/"
 
 
 class Credentials(

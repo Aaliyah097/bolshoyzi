@@ -67,6 +67,8 @@ docker stack deploy -c swarm-docker-compose.yml --with-registry-auth bolshoyzi
 
 # Полезные команды dockerswarm
 ```bash
+# Запустить докер сварм
+docker swarm init
 # Посмотреть стеки
 docker stack ls
 # Посмотреть сервисы стека
