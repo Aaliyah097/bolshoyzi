@@ -12,27 +12,41 @@ from db.clients.pg.tables.scripts import Scripts
 from db.clients.pg.tables.scripts_programs import scripts_programs
 
 
+PROGRAMS_DICT: dict[str, Program] = {
+    'sherlock': Program(
+        str(ulid.new()),
+        created_at=datetime.now(),
+        updated_at=datetime.now(),
+        name='sherlock',
+        label='Шерлок',
+        is_active=True,
+        description="Выдает список ссылок на карточки пользователей с разных сайтов, которые зарегистрированы на мою почту"
+    ),
+    'socialscan': Program(
+        str(ulid.new()),
+        created_at=datetime.now(),
+        updated_at=datetime.now(),
+        name='socialscan',
+        label='Социалскан',
+        is_active=True,
+        description="Выдает список ссылок на карточки пользователей с разных сайтов, которые зарегистрированы на мой юзернейм"
+    )
+}
+
+
 SCRIPTS_LIST: list[Script] = [
     Script(
         id=str(ulid.new()), 
         created_at=datetime.now(), 
         updated_at=datetime.now(),
         name="my_email",
-        label="Учетки на Мою почту",
+        label="Моя почта",
         description="Посмотреть на каких сайтах есть учетные записи, зарегистрированные на мой адрес электронной почты",
         is_active=True,
         group=ScriptGroup.ME,
         input=ScriptInput.EMAIL,
         programs=[
-            Program(
-                str(ulid.new()),
-                created_at=datetime.now(),
-                updated_at=datetime.now(),
-                name='sherlock',
-                label='Шерлок',
-                is_active=True,
-                description="Выдает список ссылок на карточки пользователей с разных сайтов, которые зарегистрированы на мою почту"
-            ),
+            PROGRAMS_DICT['socialscan'],
         ]
     ),
     Script(
@@ -40,21 +54,14 @@ SCRIPTS_LIST: list[Script] = [
         created_at=datetime.now(),
         updated_at=datetime.now(),
         name='my_username',
-        label='Учетки на мой юзернейм',
+        label='Мой юзернейм',
         description="Посмотреть на каких сайтах есть учетные записи, зарегистрированные на мой юзернейм",
         is_active=True,
         group=ScriptGroup.ME,
         input=ScriptInput.USERNAME,
         programs=[
-            Program(
-                str(ulid.new()),
-                created_at=datetime.now(),
-                updated_at=datetime.now(),
-                name='socialscan',
-                label='Социалскан',
-                is_active=True,
-                description="Выдает список ссылок на карточки пользователей с разных сайтов, которые зарегистрированы на мой юзернейм"
-            )
+            PROGRAMS_DICT['socialscan'],
+            PROGRAMS_DICT['sherlock'],
         ]
     )
 ]
